@@ -76,9 +76,6 @@ pip install -r requirements.txt
 # 4. Start the local server stream instance loop
 streamlit run app.py
 
-##OUTPUT SCREENSHOT
-<img width="1919" height="853" alt="image" src="https://github.com/user-attachments/assets/775ac4f0-731c-4309-a590-00d167b86e85" />
-
 
 🛠️ Core Technology Stack
 
